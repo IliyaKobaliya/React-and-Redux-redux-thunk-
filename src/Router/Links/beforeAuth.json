@@ -1,0 +1,14 @@
+[
+  {
+    "title" :"Авторизация",
+    "path" : "/SignIn",
+    "key" : 1,
+    "id" : "SignIn"
+  },
+  {
+    "title" :"Регистрация",
+    "path" : "/SignUp",
+    "key" : 2,
+    "id" : "SignUp"
+  }
+]

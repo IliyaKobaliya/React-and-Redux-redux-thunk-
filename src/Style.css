@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.signContainer {
+    background: #EEEEEE;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.MuiExpansionPanel-expanded-124 {
+    /*margin: 0!important;*/
+}
+
+.workersContainr {
+    max-height: 88vh;
+    overflow-y: scroll;
+}
